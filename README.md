@@ -3,7 +3,7 @@ Union Street and the City Centre hack weekend 23 – 24 September 2023
 
 **[Request a GitHub repo and access here](https://bit.ly/ctc30-github)**
 
-Over the weekend we had 34 people on Saturday, and ## on Sunday, come together to work on 5 projects from the [various ones that had been suggested](https://docs.google.com/document/d/1MMp9CtNfkZEx5h1qsM1yOT5yiwv4dSdML5j0WI841n4) prior to [the event](https://codethecity.org/ctc30/)
+Over the weekend we had 36 people on Saturday, and 13 on Sunday, come together to work on 5 projects from the [various ones that had been suggested](https://docs.google.com/document/d/1MMp9CtNfkZEx5h1qsM1yOT5yiwv4dSdML5j0WI841n4) prior to [the event](https://codethecity.org/ctc30/)
 
 You can read the [event homepage](https://codethecity.org/ctc30/) for more background about this event. 
 
